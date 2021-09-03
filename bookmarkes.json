@@ -1,0 +1,96 @@
+[{
+    "label": "开发社区",
+    "books":[
+        {
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/stackoverflow.png",
+            "title": "Stack Overflow",
+            "details": "全球最受程序员欢迎的开发社区",
+            "url": "https://stackoverflow.com/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/csdn.png",
+            "title": "CSDN",
+            "details": "全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台",
+            "url": "https://www.csdn.net/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/cnblogs.png",
+            "title": "博客园",
+            "details": "代码改变世界",
+            "url": "https://www.cnblogs.com/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/juejin.png",
+            "title": "掘金",
+            "details": "一个帮助开发者成长的社区",
+            "url": "https://juejin.im/"
+        },{
+            "img": "https://static.oschina.net/new-osc/img/page/app/app_icon.png",
+            "title": "开源中国",
+            "details": "国内最大的开源技术社区",
+            "url": "https://www.oschina.net/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/jianshu.png",
+            "title": "简书",
+            "details": "创作你的创作",
+            "url": "https://www.jianshu.com/"
+        }
+    ]
+},{
+    "label": "代码托管",
+    "books":[
+        {
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/github.png",
+            "title": "Github",
+            "details": "全球最大的面向开源及私有软件项目的托管平台",
+            "url": "https://github.com/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/gitee.png",
+            "title": "Gitee",
+            "details": "国内最大的开源社区 OSChina 的代码托管平台",
+            "url": "https://gitee.com/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/coding.png",
+            "title": "Coding",
+            "details": "国内首个一站式云端软件服务平台",
+            "url": "https://coding.net/"
+        }
+    ]
+},{
+    "label": "在线视频",
+    "books":[
+        {
+            "img": "https://m.imooc.com/static/wap/static/favicon.ico",
+            "title": "慕课网",
+            "details": "慕课网（IMOOC）是IT技能学习平台。慕课网(IMOOC)提供了丰富的移动端开发、php开发、web前端、android开发以及html5等视频教程资源公开课",
+            "url": "https://www.imooc.com/"
+        },{
+            "img": "https://www.lanqiao.cn/mobile/favicon.ico",
+            "title": "蓝桥云课",
+            "details": "国内领先的IT在线编程及在线实训学习平台，专业导师提供精选的实践项目，创新的技术使得学习者无需配置繁琐的本地环境，随时在线流畅使用",
+            "url": "https://www.shiyanlou.com/"
+        },{
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/itheima.png",
+            "title": "黑马程序员",
+            "details": "致力于培养中级程序员，是业内以口碑闻名的IT教育培训机构",
+            "url": "http://www.itheima.com/"
+        }
+    ]
+},{
+    "label": "学习平台",
+    "books":[
+        {
+            "img": "https://cdn.jsdelivr.net/gh/Yafine/cdn@3.3.4/source/box/images/logo/nowcoder.png",
+            "title": "牛客网",
+            "details": "牛客网 - 互联网求职神器和备考学习平台",
+            "url": "https://www.nowcoder.com/"
+        }
+    ]
+},{
+    "label": "常用工具",
+    "books":[
+        {
+            "img": "https://www.processon.com/assets/imgs/on.png",
+            "title": "processon",
+            "details": "专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制",
+            "url": "https://www.processon.com/"
+        }
+    ]
+}]

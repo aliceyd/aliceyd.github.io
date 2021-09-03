@@ -1,0 +1,1 @@
+(self.webpackChunkvuepress_starter=self.webpackChunkvuepress_starter||[]).push([[439],{6439:(e,s,t)=>{"use strict";t.r(s),t.d(s,{default:()=>u});var r=t(6252);const u={components:{Layout:t(2961).Z},render:function(e,s,t,u,n,a){const c=(0,r.up)("Layout",!0);return(0,r.wg)(),(0,r.j4)(c)}}}}]);
